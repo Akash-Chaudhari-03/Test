@@ -1,1 +1,6 @@
+<<<<<<< HEAD
 b is edited 
+=======
+b is edited again 
+>>>>>>> bike
+ hello world
